@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rafik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rafik\\.nuget\\packages"
+    ]
+  }
+}

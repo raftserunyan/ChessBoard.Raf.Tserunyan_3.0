@@ -1,0 +1,13 @@
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\bin\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.exe
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\bin\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.deps.json
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\bin\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.runtimeconfig.json
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\bin\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.runtimeconfig.dev.json
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\bin\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.dll
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\bin\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.pdb
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.csprojAssemblyReference.cache
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.AssemblyInfoInputs.cache
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.AssemblyInfo.cs
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.csproj.CoreCompileInputs.cache
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.dll
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.pdb
+C:\Users\Rafik\source\repos\ChessBoard.Raf.Tserunyan_3.0\ChessBoard.Raf.Tserunyan_3.0\obj\Debug\netcoreapp3.1\ChessBoard.Raf.Tserunyan_3.0.genruntimeconfig.cache
